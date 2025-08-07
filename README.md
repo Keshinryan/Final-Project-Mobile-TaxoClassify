@@ -25,7 +25,7 @@ This mobile application is the final project titled **"Design of Animal Classifi
 
 - Model Type: CNN (Sequential)
 - Input Size: 256x256 (Edge) / 384x384 (Cloud)
-- Classes: 7 Animal Species
+- Classes: 7 Animal Species (Domestic Cat, Leopard Cat, Eurassian Tree Sparrow, House Sparrow, Rock Dove, Koi, Common Carp)
 - Taxonomy Levels: Kelas, Ordo, Famili, Genus, Spesies
 - Best Model: 4 Hidden Layers + Dropout 0.2 (Avg Accuracy: 90.15%)
 
