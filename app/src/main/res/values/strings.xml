@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">TaxoClassify</string>
+    <string name="title_home">Beranda</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_help">Bantuan</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="app_instructions">
+    <![CDATA[
+    <b><font color=\"#74B4AE\">TaxoClassify </font></b><br><br>
+    Aplikasi ini adalah sebuah aplikasi atau perangkat lunak yang dirancang untuk mengklasifikasi hewan berdasarkan klasifikasi ilmiah. Hewan-hewan yang dapat diklasifikasikan oleh sistem ini, yaitu:<br>
+    - Burung Gereja Eurasia<br>
+    - Burung Gereja Rumah<br>
+    - Merpati Batu<br>
+    - Kucing<br>
+    - Kucing Kuwuk<br>
+    - Ikan Koi<br>
+    - Ikan Mas<br><br>
+    <b><font color=\"#74B4AE\">Cara menggunakan aplikasi: </font></b><br>
+    1. Tekan tombol <font color=\"#74B4AE\">\"Klasifikasi Hewan\"</font> pada bar bagian bawah<br>
+    2. Pilih salah satu metode:<br>
+    &nbsp;&nbsp;&nbsp;a. Tekan tombol <font color=\"#74B4AE\">\"Ambil Foto\"</font> untuk mengambil foto baru<br>
+    &nbsp;&nbsp;&nbsp;b. Atau tekan tombol <font color=\"#74B4AE\">\"Pilih dari Galeri\"</font> untuk memilih gambar yang sudah ada<br>
+    3. Tekan tombol centang untuk mengklasifikasikan gambar yang dipilih.
+    ]]>
+</string>
+    <string name="input_image">Input Image</string>
+    <string name="hasil_klasifikasi">Hasil Klasifikasi</string>
+    <string name="class_value">Actinopterygii (Tidak Yakin,99%)</string>
+    <string name="ordo_value">Passeriformes (Tidak Yakin,99%)</string>
+    <string name="famili_value">Columbidae (Tidak Yakin,99%)</string>
+    <string name="genus_value">Prionailurus (Tidak Yakin,99%)</string>
+    <string name="spesies_value">Passer Domesticus (Burung Gereja Rumah) (Tidak Yakin ,99%)</string>
+</resources>

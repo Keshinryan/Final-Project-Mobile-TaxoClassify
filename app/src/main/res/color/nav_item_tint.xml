@@ -1,0 +1,7 @@
+<!-- res/color/nav_item_tint.xml -->
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Active (selected) state -->
+    <item android:color="@color/colorPrimary" android:state_checked="true"/>
+    <!-- Inactive state -->
+    <item android:color="#2D4054"/> <!-- Sage Green for inactive items -->
+</selector>

@@ -1,0 +1,35 @@
+{
+  "kelas": {
+    "Mammalia": 0,
+    "Aves": 1,
+    "Actinopterygii": 2
+  },
+  "ordo": {
+    "Carnivora": 0,
+    "Columbiformes": 1,
+    "Cypriniformes": 2,
+    "Passeriformes": 3
+  },
+  "famili": {
+    "Felidae": 0,
+    "Columbidae": 1,
+    "Cyprinidae": 2,
+    "Passeridae": 3
+  },
+  "genus": {
+    "Felis": 0,
+    "Columba": 1,
+    "Cyprinus": 2,
+    "Prionailurus": 3,
+    "Passer": 4
+  },
+  "spesies": {
+    "Felis catus (Kucing)": 0,
+    "Columba livia (Merpati Batu)": 1,
+    "Cyprinus carpio (Ikan Mas)": 2,
+    "Prionailurus bengalensis (Kucing Kuwuk)": 3,
+    "Passer domesticus (Burung Gereja Rumah)": 4,
+    "Passer montanus (Burung Gereja Eurasia)": 5,
+    "Cyprinus rubrofuscus (Ikan Koi)": 6
+  }
+}
