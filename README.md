@@ -57,3 +57,7 @@ This Mobile Application is integrated into different platforms through separate 
 
 - **Cloud Deployment (FastAPI)**  
   [Final-Project-Cloud-AI-FastAPI](https://github.com/Keshinryan/Final-Project-Cloud-AI-FastAPI)
+
+## 🖋 License
+
+This project is licensed under the MIT License.
