@@ -1,3 +1,16 @@
+## 🚀 Other Repositories
+
+This Mobile Application is integrated into different platforms through separate repositories:
+- **Model Training**  
+  [Final-Project-Model-Training](https://github.com/Keshinryan/Final-Project-Model-Training)
+  
+- **Cloud Deployment (Gradio + Vercel + Express.js)**  
+  [Final-Project-Cloud-AI-Gradio-VercelJs-ExpressJs](https://github.com/Keshinryan/Final-Project-Cloud-AI-Gradio-VercelJs-ExpressJs)
+
+- **Cloud Deployment (FastAPI)**  
+  [Final-Project-Cloud-AI-FastAPI](https://github.com/Keshinryan/Final-Project-Cloud-AI-FastAPI)
+  
+
 # Animal Taxonomy Classification App (Final Project)
 
 This mobile application is the final project titled **"Design of Animal Classification System Using Deep Learning on Android"**. It is designed to help users—especially elementary school students—identify animals and understand their taxonomy levels through image classification.
